@@ -2,7 +2,7 @@
   "name": "ajs-matchers",
   "version": "1.0.0",
   "description": "",
-  "main": "heroes.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "build": "webpack --mode production",
