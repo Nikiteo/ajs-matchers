@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test-cov": "jest --coverage",
     "test": "jest",
     "build": "webpack --mode production",
     "lint": "eslint ."
